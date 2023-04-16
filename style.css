@@ -1,0 +1,84 @@
+h2 {
+    color: orangered;
+    margin-left: 30px;
+    margin-top: 2px;
+    font-size: 38px;
+}
+
+body {
+    background-color: black;
+}
+
+p {
+    margin-bottom: 30px;
+}
+
+.first-story {
+    border: 1px solid;
+    color: aliceblue;
+    font-size: 14.5px;
+    border-radius: 10px;
+    margin-left: 30px;
+    padding-left: 25px;
+    padding-right: 10px;
+    width: 90%;
+    height: 180px;
+    margin-right: 45px;
+    background-color: #202020;
+    font-family: sans-serif;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+.second-story {
+    border: 1px solid;
+    color: aliceblue;
+    font-size: 14.5px;
+    border-radius: 10px;
+    margin-left: 30px;
+    padding-left: 25px;
+    padding-right: 10px;
+    width: 90%;
+    height: 180px;
+    margin-right: 45px;
+    background-color: #202020;
+    font-family: sans-serif;
+    margin-top: 20px;
+    padding-top: 0px;
+    padding-bottom: 0;
+}
+
+.third-story {
+    border: 1px solid;
+    color: aliceblue;
+    font-size: 14.5px;
+    width: 90%;
+    height: 180px;
+    border-radius: 10px;
+    margin-left: 30px;
+    padding-left: 25px;
+    padding-right: 10px;
+    margin-right: 45px;
+    background-color: #202020;
+    font-family: sans-serif;
+    margin-top: 20px;
+    padding-top: 0px;
+    padding-bottom: 0;
+
+}
+
+span {
+    font-size: 13;
+    color: cadetblue;
+    padding-top: 10px;
+}
+
+div:hover {
+    background-color: #FE6E00;
+    color: white;
+}
+
+div:hover>span {
+    background-color: #FE6E00;
+    color: white;
+}
